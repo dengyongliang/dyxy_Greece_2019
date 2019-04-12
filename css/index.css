@@ -32,6 +32,9 @@ body, html, input, textarea{
 .navbar-nav {
   width: 100%;
 }
+header{
+  margin-bottom: 2px;
+}
 header img{
   width: 100%;
 }
