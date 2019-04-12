@@ -1,4 +1,7 @@
 @charset "UTF-8";
+body, html, input, textarea{
+  font-family: Arial,"Lantinghei SC","Helvetica Neue","Microsoft YaHei","WenQuanYi Micro Hei","Heiti SC","Segoe UI",sans-serif;
+}
 .navbar {
   background: #272727;
   text-align: center;
