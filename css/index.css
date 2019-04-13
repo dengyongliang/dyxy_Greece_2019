@@ -539,6 +539,10 @@ footer .cp2{
   .row-sourcehouse2 .row>div:nth-child(2){
     text-align: left;
   }
+  .row-sourcehouse2 .carousel{
+    width: 568px;
+    display: inline-block;
+  }
   .row-note .wrap{
     width: 1152px;
     padding-bottom: 50px;
